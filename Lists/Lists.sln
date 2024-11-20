@@ -13,11 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03-AddElements_EdinRed", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p04-AddElements_RedPoRed", "p04-AddElements_RedPoRed\p04-AddElements_RedPoRed.csproj", "{702D995F-4A23-4E54-8C97-C387704733C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p05 - ArraysMethods", "p05 - ArraysMethods\p05 - ArraysMethods.csproj", "{E66B076E-8F24-4E73-B292-5A34C33A8C29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p05 - ArraysMethods", "p05 - ArraysMethods\p05 - ArraysMethods.csproj", "{E66B076E-8F24-4E73-B292-5A34C33A8C29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p06-DeleteSameNumbers", "p06-DeleteSameNumbers\p06-DeleteSameNumbers.csproj", "{C9E3757C-C285-4127-8D78-76B91B0F3DE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p06-DeleteSameNumbers", "p06-DeleteSameNumbers\p06-DeleteSameNumbers.csproj", "{C9E3757C-C285-4127-8D78-76B91B0F3DE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p07-ChetniChisla", "p07-ChetniChisla\p07-ChetniChisla.csproj", "{AAAC3EBF-D478-4814-ACE3-1C146DDCD4E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p07-ChetniChisla", "p07-ChetniChisla\p07-ChetniChisla.csproj", "{AAAC3EBF-D478-4814-ACE3-1C146DDCD4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p09 - DeleteAllElements-LikeLast", "p09 - DeleteAllElements-LikeLast\p09 - DeleteAllElements-LikeLast.csproj", "{596520AE-ED82-4800-8F83-D53D5B7834BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p10 - DeleteNegativNumber", "p10 - DeleteNegativNumber\p10 - DeleteNegativNumber.csproj", "{1D573F7E-C87D-48F8-A85F-E580C938C265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11 - AveragePositiveNumbers", "p11 - AveragePositiveNumbers\p11 - AveragePositiveNumbers.csproj", "{002C3CA9-4960-4005-9287-F095D4D9C7D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{AAAC3EBF-D478-4814-ACE3-1C146DDCD4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAAC3EBF-D478-4814-ACE3-1C146DDCD4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAAC3EBF-D478-4814-ACE3-1C146DDCD4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596520AE-ED82-4800-8F83-D53D5B7834BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596520AE-ED82-4800-8F83-D53D5B7834BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596520AE-ED82-4800-8F83-D53D5B7834BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596520AE-ED82-4800-8F83-D53D5B7834BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D573F7E-C87D-48F8-A85F-E580C938C265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D573F7E-C87D-48F8-A85F-E580C938C265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D573F7E-C87D-48F8-A85F-E580C938C265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D573F7E-C87D-48F8-A85F-E580C938C265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002C3CA9-4960-4005-9287-F095D4D9C7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002C3CA9-4960-4005-9287-F095D4D9C7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002C3CA9-4960-4005-9287-F095D4D9C7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002C3CA9-4960-4005-9287-F095D4D9C7D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
