@@ -6,7 +6,7 @@
         {
             //IndeXOf - връща номера на символа
             
-            string word = "Contintienti";
+            string word = "Continenti";
             int firstSymbol = word.IndexOf("ti");
             int lastSymbol = word.LastIndexOf("ti");
 
