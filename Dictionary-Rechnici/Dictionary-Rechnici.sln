@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00 - DemoDeklartion", "P00 - DemoDeklartion\P00 - DemoDeklartion.csproj", "{76926D1F-FCB2-4817-9B85-8F71541C5B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - DemoAddElements", "P02 - DemoAddElements\P02 - DemoAddElements.csproj", "{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76926D1F-FCB2-4817-9B85-8F71541C5B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76926D1F-FCB2-4817-9B85-8F71541C5B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76926D1F-FCB2-4817-9B85-8F71541C5B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76926D1F-FCB2-4817-9B85-8F71541C5B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
