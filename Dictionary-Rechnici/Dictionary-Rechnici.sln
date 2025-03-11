@@ -1,11 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P00 - DemoDeklartion", "P00 - DemoDeklartion\P00 - DemoDeklartion.csproj", "{76926D1F-FCB2-4817-9B85-8F71541C5B9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - DemoAddElements", "P02 - DemoAddElements\P02 - DemoAddElements.csproj", "{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - Words", "P03 - Words\P03 - Words.csproj", "{1DB1EA93-3864-4545-B369-7A56D3F44FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04 - MinyorskaZadacha", "P04 - MinyorskaZadacha\P04 - MinyorskaZadacha.csproj", "{F6AD93FC-C532-47FB-B999-B8C9B007AD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05 - PhoneContacts", "P05 - PhoneContacts\P05 - PhoneContacts.csproj", "{43499F3C-1CBB-4EA1-98A2-34C9D58E8A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT-IpitnaZadacha", "IT-IpitnaZadacha\IT-IpitnaZadacha.csproj", "{C9ACF624-5794-4EB5-83BA-133B8A56B522}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2FC63E7-6840-4F1F-A80E-20E7E301B2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB1EA93-3864-4545-B369-7A56D3F44FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB1EA93-3864-4545-B369-7A56D3F44FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB1EA93-3864-4545-B369-7A56D3F44FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB1EA93-3864-4545-B369-7A56D3F44FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AD93FC-C532-47FB-B999-B8C9B007AD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AD93FC-C532-47FB-B999-B8C9B007AD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AD93FC-C532-47FB-B999-B8C9B007AD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AD93FC-C532-47FB-B999-B8C9B007AD77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43499F3C-1CBB-4EA1-98A2-34C9D58E8A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43499F3C-1CBB-4EA1-98A2-34C9D58E8A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43499F3C-1CBB-4EA1-98A2-34C9D58E8A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43499F3C-1CBB-4EA1-98A2-34C9D58E8A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ACF624-5794-4EB5-83BA-133B8A56B522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ACF624-5794-4EB5-83BA-133B8A56B522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ACF624-5794-4EB5-83BA-133B8A56B522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ACF624-5794-4EB5-83BA-133B8A56B522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

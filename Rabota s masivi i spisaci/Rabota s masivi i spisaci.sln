@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obrabotka na masiv", "Obrabotka na masiv\Obrabotka na masiv.csproj", "{49E4B999-A558-4E84-8F08-7F11044E541C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secur Array", "Secur Array\Secur Array.csproj", "{FDE34FA5-5B69-44FE-BEEE-17187CD6F355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potter Project", "Potter Project\Potter Project.csproj", "{0A1BA66D-7E42-4A01-90C2-EF016BE36633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E4B999-A558-4E84-8F08-7F11044E541C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E4B999-A558-4E84-8F08-7F11044E541C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E4B999-A558-4E84-8F08-7F11044E541C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E4B999-A558-4E84-8F08-7F11044E541C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE34FA5-5B69-44FE-BEEE-17187CD6F355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE34FA5-5B69-44FE-BEEE-17187CD6F355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE34FA5-5B69-44FE-BEEE-17187CD6F355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE34FA5-5B69-44FE-BEEE-17187CD6F355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1BA66D-7E42-4A01-90C2-EF016BE36633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1BA66D-7E42-4A01-90C2-EF016BE36633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1BA66D-7E42-4A01-90C2-EF016BE36633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1BA66D-7E42-4A01-90C2-EF016BE36633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
