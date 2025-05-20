@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - CarsConstruktors", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12 - BooksKonstruktor", "P12 - BooksKonstruktor\P12 - BooksKonstruktor.csproj", "{D865BB60-28BF-4CCD-91A8-38314D61B2C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - CarsConstruktor", "P03 - CarsConstruktor\P03 - CarsConstruktor.csproj", "{15F43D1C-7092-40D4-A236-7A4B3E37AF8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D865BB60-28BF-4CCD-91A8-38314D61B2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D865BB60-28BF-4CCD-91A8-38314D61B2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D865BB60-28BF-4CCD-91A8-38314D61B2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F43D1C-7092-40D4-A236-7A4B3E37AF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F43D1C-7092-40D4-A236-7A4B3E37AF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F43D1C-7092-40D4-A236-7A4B3E37AF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F43D1C-7092-40D4-A236-7A4B3E37AF8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
