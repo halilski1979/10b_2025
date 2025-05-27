@@ -4,8 +4,13 @@
     {
         static void Main(string[] args)
         {
+            
+            
+            
             // Създаване на списък от книги
             List<Book> books = new List<Book>();
+            Book knig = new Book();
+            
 
             // Въвеждане на данни за книгите
             Console.Write("Kolko knigi iskate da vavedete? ");
